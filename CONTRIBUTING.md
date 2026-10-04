@@ -45,8 +45,8 @@ Look for issues labeled:
 
 ```bash
 # Click "Fork" on GitHub (top right)
-git clone https://github.com/YOUR-USERNAME/ai-command-center.git
-cd ai-command-center
+git clone https://github.com/zainosta/pulse.git
+cd pulse
 ```
 
 ### 3. Create a branch
