@@ -336,7 +336,7 @@ git push origin feature/sparkly-animation
 
 | Contributor | Role | Contribution |
 |---|---|---|
-| [@zainosta](https://github.com/zainosta) | 🧠 Creator | Original vision + core app |
+| [@zainosta](https://github.com/zainosta) | 🧠 Creator · 🦙 Ollama whisperer | Original vision + core app |
 | *(your name here)* | 🎨 Designer | Waiting for you! |
 | *(your name here)* | ⚙️ Backend wizard | Waiting for you! |
 | *(your name here)* | 📖 Docs hero | Waiting for you! |
