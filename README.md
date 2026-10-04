@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# ◉ AI COMMAND CENTER
+# ◉ pulse
 
 ### A floating, cyberpunk-style dashboard that shows your local AI in real time — no terminal, no BS, no fake numbers.
 
@@ -44,7 +44,7 @@
 
 ## 🌌 What is this?
 
-**AI Command Center** is a **floating desktop widget** that sits on top of your screen and shows you, in real time:
+**pulse** is a **floating desktop widget** that sits on top of your screen and shows you, in real time:
 
 - 🧠 **How many AI models you have loaded** right now
 - ⚡ **Exactly how fast they're generating** (real tokens/sec, pulled from Ollama's own logs — the *same* numbers a terminal would show you)
@@ -92,7 +92,7 @@ Here's the entire pipeline, drawn with mermaid so your eyes don't bleed reading 
 
 ```mermaid
 flowchart LR
-    A[👤 You write<br/>a message] --> B[🖥️ AI Command Center<br/>Chat Window]
+    A[👤 You write<br/>a message] --> B[🖥️ pulse<br/>Chat Window]
     B --> C[📡 POST to Ollama<br/>localhost:11434/api/chat]
     C --> D[🦙 Ollama generate<br/>Hermes3:8b]
     D --> E[⚙️ llama.cpp engine<br/>calculates tg = X t/s]
@@ -160,7 +160,7 @@ graph TB
 
 ```mermaid
 journey
-    title Your first 30 seconds with AI Command Center
+    title Your first 30 seconds with pulse
     section Install
       Clone repo: 5: You
       pip install PyQt5: 4: You
@@ -203,8 +203,8 @@ flowchart LR
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR-USERNAME/ai-command-center.git
-cd ai-command-center
+git clone https://github.com/zainosta/pulse.git
+cd pulse
 
 # 2. Install the one dependency
 pip install PyQt5
@@ -305,7 +305,7 @@ This project **only grows if you build it with us.** Every contribution counts �
 ```bash
 # 1. Fork on GitHub (click the button, top right)
 # 2. Clone your fork
-git clone https://github.com/YOUR-USERNAME/ai-command-center.git
+git clone https://github.com/zainosta/pulse.git
 
 # 3. Make a branch with a cool name
 git checkout -b feature/sparkly-animation
@@ -332,11 +332,11 @@ git push origin feature/sparkly-animation
 
 ## 🏆 Hall of Fame — Our legends
 
-*These people made AI Command Center better.* **Want your name here?** Open a PR!
+*These people made pulse better.* **Want your name here?** Open a PR!
 
 | Contributor | Role | Contribution |
 |---|---|---|
-| [@YOUR-USERNAME](https://github.com/YOUR-USERNAME) | 🧠 Creator | Original vision + core app |
+| [@zainosta](https://github.com/zainosta) | 🧠 Creator | Original vision + core app |
 | *(your name here)* | 🎨 Designer | Waiting for you! |
 | *(your name here)* | ⚙️ Backend wizard | Waiting for you! |
 | *(your name here)* | 📖 Docs hero | Waiting for you! |
