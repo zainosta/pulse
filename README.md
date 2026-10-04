@@ -40,6 +40,13 @@
 
 </div>
 
+<img src="assets/screenshot.png" alt="pulse dashboard — live tokens/sec" width="720"/>
+
+<br/>
+<em>Real numbers. Real time. Zero terminals.</em>
+
+</div>
+
 ---
 
 ## 🌌 What is this?
