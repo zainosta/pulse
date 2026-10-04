@@ -1,6 +1,6 @@
 # 📜 Changelog
 
-All notable changes to AI Command Center are documented here.  
+All notable changes to pulse are documented here.  
 Format loosely based on [Keep a Changelog](https://keepachangelog.com/).
 
 ---
