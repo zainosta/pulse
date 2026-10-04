@@ -17,7 +17,7 @@
 [![Ollama](https://img.shields.io/badge/Ollama-Ready-000000?style=for-the-badge)](https://ollama.com)
 [![License](https://img.shields.io/badge/License-MIT-00ffc3?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-ff69b4?style=for-the-badge)](CONTRIBUTING.md)
-[![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20chaos-ff0055?style=for-the-badge)]()
+[![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20chaos-ff0055?style=for-the-badge)](https://github.com/zainosta/pulse)
 
 ```
    ╔══════════════════════════════════════════════════════╗
