@@ -38,12 +38,22 @@
 
 **Live. Real. Yours.** *(っ◔◡◔)っ ♥*
 
-</div>
+<br/>
 
-<img src="assets/screenshot.png" alt="pulse dashboard — live tokens/sec" width="300"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshot.png" alt="pulse dashboard — live tokens/sec" width="300"/><br/>
+      <em>Live tokens/sec</em>
+    </td>
+    <td align="center">
+      <img src="assets/chat.png" alt="pulse chat window" width="300"/><br/>
+      <em>Built-in chat</em>
+    </td>
+  </tr>
+</table>
 
 <br/>
-<em>Real numbers. Real time. Zero terminals.</em>
 
 </div>
 
