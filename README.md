@@ -430,4 +430,18 @@ Built with:
 
 *Last updated: when this README stopped being readable at 4 AM* ☕
 
+## ❤️ Support the Project
+
+If this script saved you time, feel free to buy me a virtual coffee! ☕  
+Your support motivates me to keep improving this tool.
+
+| Method | Details |
+| :--- | :--- |
+| 💰 **USDT (TRC20)** | `TVmL1R1wYXiM8wP2NfJk5hwQYVMtoJhHU5` |
+| 🆔 **Binance ID** | `500857050` |
+
+> ⚠️ **Important:** Please make sure to select the **TRC20** network when sending USDT. Sending via the wrong network may result in permanent loss of funds.
+
+Thank you for your generosity! 🙌
+
 </div>
