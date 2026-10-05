@@ -227,7 +227,7 @@ cd pulse
 pip install PyQt5
 
 # 3. Run it
-python ai_dashboard.pyw
+python pulse.pyw
 ```
 
 **That's it.** No config files. No environment variables. No terminal window stays open. `╰(*°▽°*)╯`
