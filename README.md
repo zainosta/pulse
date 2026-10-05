@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="assets/screenshot.png" alt="pulse dashboard — live tokens/sec" width="300"/><br/>
+      <img src="assets/screenshot.png" alt="pulse dashboard — live tokens/sec" width="250"/><br/>
       <em>Live tokens/sec</em>
     </td>
     <td align="center">
