@@ -216,7 +216,13 @@ flowchart LR
 
 ---
 
-## 🚀 Quick start (3 commands, promise)
+## 🚀 Quick start (2 options ,Double-click .bat or Manual launch )
+### Option A — One-click launch (Windows)
+1. Download the repo
+2. Double-click `run.bat`
+3. Enjoy ⚡
+
+### Option B — Manual launch
 
 ```bash
 # 1. Clone
