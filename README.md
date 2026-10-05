@@ -221,6 +221,12 @@ flowchart LR
 1. Download the repo
 2. Double-click `run.bat`
 3. Enjoy ⚡
+   
+The launcher will:
+- Automatically find your Python installation
+- Install PyQt5 if you don't have it
+- Start the dashboard silently (no terminal window)
+
 
 ### Option B — Manual launch
 
